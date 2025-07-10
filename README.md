@@ -22,3 +22,19 @@ How accurately can various deep learning models, including Long Short-Term Memor
 **Reproducibility**:
 All code and steps will be documented clearly for transparency and reproducibility.
 
+
+
+---
+
+
+
+© 2025 Den PN Gathitu. All rights reserved.
+
+
+
+Code is licensed under the MIT License (see LICENSE).  
+
+Non-code content is licensed under CC BY-NC 4.0 (see LICENSE-NONCODE.txt).
+
+
+
