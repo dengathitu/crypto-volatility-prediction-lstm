@@ -26,15 +26,7 @@ All code and steps will be documented clearly for transparency and reproducibili
 
 ---
 
-
-
 © 2025 Den PN Gathitu. All rights reserved.
 
-
-
-Code is licensed under the MIT License (see LICENSE).  
-
-Non-code content is licensed under CC BY-NC 4.0 (see LICENSE-NONCODE.txt).
-
-
-
+Code is licensed under the [MIT License](LICENSE).  
+Non-code content is licensed under [CC BY-NC 4.0](LICENSE-NONCODE.txt).
